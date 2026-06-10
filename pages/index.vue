@@ -6,12 +6,49 @@
 
       <title-icons />
     </div>
-
     <div class="container">
-      <div class="timeline-item" date-is="January 2019 - Now">
+      <div class="timeline-item" date-is="January 2023 - August 2025">
         <h1>
-          <img src="~/static/peevee.png" height="30rem" /> Software Engineer
-          @Peevee
+          <b-link href="https://www.leboncoin.fr/" target="_blank"
+            ><img src="~/static/lbc.png" height="30rem"
+          /></b-link>
+          Backend Engineer @Leboncoin
+        </h1>
+        <div class="wrapper-columns">
+          <div class="left-column div1">
+            <p>
+              Backend engineer in charge of the secure transaction lifecycle for
+              the vehicle marketplace.
+            </p>
+            <p>
+                Architected and implemented the secured payment feature
+                <ul>
+                  <li>From classified ad eligibility to user-to-user checkout</li>
+                  <li>Sending notifications based on the ad lifecycle</li>
+                </ul>
+            </p>
+            <p>
+              Help architect and implement legacy distributed monolith into
+              Go-based microservices.
+            </p>
+            <p>
+              Contributed to platform-level backend guild and cross-team
+              reliability improvements.
+            </p>
+          </div>
+          <div class="right-column div2">
+            <p></p>
+            <p><br />SCRUM, GitHub, Gerrit</p>
+            <p><br />Golang, PgSQL, Cron, DDD</p>
+            <p><br />Concourse, Datadog, Grafana</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="timeline-item" date-is="January 2019 - January 2023">
+        <h1>
+          <img src="~/static/peevee.png" height="30rem" />
+          Software Engineer @Peevee
         </h1>
         <div class="wrapper-columns">
           <div class="left-column div1">
