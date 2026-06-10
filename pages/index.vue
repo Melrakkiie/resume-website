@@ -37,7 +37,6 @@
             </p>
           </div>
           <div class="right-column div2">
-            <p></p>
             <p><br />SCRUM, GitHub, Gerrit</p>
             <p><br />Golang, PgSQL, Cron, DDD</p>
             <p><br />Concourse, Datadog, Grafana</p>
